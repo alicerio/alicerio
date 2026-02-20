@@ -1,7 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-My name is **Alan Licerio**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is **Alan Licerio**
+========================================================================================================================================
 
-## Full Stack Developer
+Full Stack Developer
+--------------------
 
 I'm a full-stack developer who enjoys building clean, reliable web apps from end to end. I work across the stack: designing user-friendly UIs, building secure and well-documented APIs, and working with databases and cloud tooling to ship features that scale. I’m big on readable code, automation, and improving developer experience—because the best systems are the ones that are easy to maintain.
 
@@ -78,15 +79,3 @@ Outside of coding, I like learning new tools, refining workflows, and turning sm
     </picture>
   </a>
 </p>
-
----
-
-## Stats
-
-<a href="http://www.github.com/alicerio">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicerio&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="alicerio's GitHub stats" />
-</a>
-
-<a href="https://github.com/alicerio">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicerio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
